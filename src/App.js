@@ -38,6 +38,7 @@ const App = () => {
     }
   
   //Add Task
+  //commented out section below is method without using external DB!
   const addTask = async (task) => {
 
     const res = await fetch('http://localhost:5001/tasks', {

@@ -10,12 +10,12 @@
       "id": 2,
       "text": "Meeting at school",
       "day": "Feb 6th at 1:30 pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "text": "Take Test",
       "day": "Monday Feb 29 10:00 am",
-      "reminder": false,
+      "reminder": true,
       "id": 3
     }
   ]

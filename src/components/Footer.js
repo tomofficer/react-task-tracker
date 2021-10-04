@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom"
 
+//footer page with link to About page, shows example of using React Router
 const Footer = () => {
     return (
         <footer>
